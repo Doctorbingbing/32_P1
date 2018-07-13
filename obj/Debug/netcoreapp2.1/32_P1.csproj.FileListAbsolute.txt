@@ -1,0 +1,11 @@
+C:\Users\Christian\Documents\GitHub\32_P1\obj\Debug\netcoreapp2.1\32_P1.csprojAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\32_P1\obj\Debug\netcoreapp2.1\32_P1.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\32_P1\obj\Debug\netcoreapp2.1\32_P1.AssemblyInfoInputs.cache
+C:\Users\Christian\Documents\GitHub\32_P1\obj\Debug\netcoreapp2.1\32_P1.AssemblyInfo.cs
+C:\Users\Christian\Documents\GitHub\32_P1\bin\Debug\netcoreapp2.1\32_P1.deps.json
+C:\Users\Christian\Documents\GitHub\32_P1\bin\Debug\netcoreapp2.1\32_P1.runtimeconfig.json
+C:\Users\Christian\Documents\GitHub\32_P1\bin\Debug\netcoreapp2.1\32_P1.runtimeconfig.dev.json
+C:\Users\Christian\Documents\GitHub\32_P1\bin\Debug\netcoreapp2.1\32_P1.dll
+C:\Users\Christian\Documents\GitHub\32_P1\bin\Debug\netcoreapp2.1\32_P1.pdb
+C:\Users\Christian\Documents\GitHub\32_P1\obj\Debug\netcoreapp2.1\32_P1.dll
+C:\Users\Christian\Documents\GitHub\32_P1\obj\Debug\netcoreapp2.1\32_P1.pdb
